@@ -1,4 +1,6 @@
 main*
-bable.config.js
+babel.config.js
 package.json
 .eslintrc.js
+*node_modules/
+package-lock.json
