@@ -1,6 +1,5 @@
 /**
  * Prints a message to the console
- * 
  * @param {string} args - The message to print
  */
 
