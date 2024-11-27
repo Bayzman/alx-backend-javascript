@@ -5,7 +5,7 @@
  * the command line
  */
 
-console.log('Welcome to Holberton School, what is your name?')
+console.log('Welcome to Holberton School, what is your name?');
 process.stdin.on('data', (data) => {
   if (data != null) {
     process.stdout.write(`Your name is: ${data}`);
